@@ -8,10 +8,13 @@
   border: 0;
   text-decoration: none;
 }
-img,
+img {
+  text-align: middle;
+}
 input,
 label {
   vertical-align: middle;
+  text-align: middle;
 }
 h1,
 h2,
